@@ -1,3 +1,5 @@
+[![Python package](https://github.com/santokalayil/function_params_to_argparse/actions/workflows/python-package.yml/badge.svg)](https://github.com/santokalayil/function_params_to_argparse/actions/workflows/python-package.yml)
+
 # function_params_to_argparse
 Accessing python functions params from commandline 
 
